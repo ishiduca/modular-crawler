@@ -3,12 +3,12 @@
     "request": {
       "timout": 5000,
       "interval": 800,
-      "error": "./error.log",
-      "access": "./access.log"
+      "error": "./logs/error.log",
+      "access": "./logs/access.log"
     },
     "export_xml": "../../source/export.xml",
     "lock": 3,
-    "ignore_txt": "./ignore.txt",
+    "ignore_txt": "./source/ignore.txt",
     "different": {
       "tmp": {
         "tmpDir": "./tmp",
