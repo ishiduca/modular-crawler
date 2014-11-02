@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+node_modules/
+source/
+example/01/tmp
+example/01/source
+example/01/logs
+example/01/node_modules/

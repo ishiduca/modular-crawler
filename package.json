@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "name": "modular-crawler",
+  "description": "streamed modules for crawler",
+  "keywords": [
+    "cralwer",
+    "stream",
+    "modular"
+  ],
+  "scripts": {
+    "test": "tap --tap t/*.js"
+  },
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "dependencies": {
+    "feedparser": "^0.19.2",
+    "opmlparser": "^0.7.0",
+    "request": "^2.47.0",
+    "slenderr": "^0.1.1"
+  }
+}
